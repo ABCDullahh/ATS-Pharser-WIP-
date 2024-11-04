@@ -1,5 +1,3 @@
----
-
 # Resume Parser v0.1 (WIP)
 
 **A developing tool for scanning and parsing resumes using NLP and regex. Currently, the application is in progress and is limited in its scanning and parsing capabilities.** 🚧
@@ -21,14 +19,14 @@ Resume Parser v0.1 is in its initial development phase. While the application is
 - **Restricted ATS Compatibility Scoring**: The current scoring is basic and does not yet fully reflect real-world ATS expectations.
 - **File Format Support**: Only PDF and DOCX formats are supported at this stage.
 
----
+
 
 ### Output Samples
 
 Here are examples of current output formatting for parsed data:
 
 | Contact Information Output             | Skills and Summary Output                | Work Experience Output                |
-|----------------------------------------|------------------------------------------|---------------------------------------|
+|----------------------------------|------------------------------------------|---------------------------------------|
 | ![Contact Information](https://github.com/user-attachments/assets/74b25ca7-f6f7-40e7-bf27-a18e3ba514e6) | ![Skills and Summary](https://github.com/user-attachments/assets/119ebca0-28e3-4b38-b0f8-7d9adb9bfccc) | ![Work Experience](https://github.com/user-attachments/assets/89464b99-8aad-4273-a26b-01436f1767c6) |
 
 
@@ -84,5 +82,3 @@ If you’d like to contribute to the project, feel free to fork the repository a
 ### License
 
 This project is open-source and available under the [MIT License](LICENSE)
-
----
