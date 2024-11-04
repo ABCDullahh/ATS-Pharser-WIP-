@@ -27,10 +27,9 @@ Resume Parser v0.1 is in its initial development phase. While the application is
 
 Here are examples of current output formatting for parsed data:
 
-| Contact Information Output             | Skills and Summary Output                | Work Experience Output                |
-|----------------------------------------|------------------------------------------|---------------------------------------|
-| ![Contact Information](https://github.com/user-attachments/assets/74b25ca7-f6f7-40e7-bf27-a18e3ba514e6) | ![Skills and Summary](https://github.com/user-attachments/assets/119ebca0-28e3-4b38-b0f8-7d9adb9bfccc) | ![Work Experience](https://github.com/user-attachments/assets/89464b99-8aad-4273-a26b-01436f1767c6) |
-
+![image](https://github.com/user-attachments/assets/74b25ca7-f6f7-40e7-bf27-a18e3ba514e6)
+![image](https://github.com/user-attachments/assets/119ebca0-28e3-4b38-b0f8-7d9adb9bfccc)
+![image](https://github.com/user-attachments/assets/89464b99-8aad-4273-a26b-01436f1767c6)
 
 ### Installation
 
